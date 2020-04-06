@@ -4,6 +4,10 @@ This project serves to imitate search engine behavior by using recommender syste
 avoiding complex querying from DB. Dataset is picked from pixiv.com, which contains large amount of anime pictures (so less color complexity 
 comparing to real image). Two methods are implemented, including search by image tag and search similar art by color feature.
 
+Clickbait dataset sample:
+
+![Sample Image](https://github.com/ShiweiTerryZhou/search-by-prediction/blob/master/imgs/0.jpg)
+
 ## Files
 
 Presentation Paper:
