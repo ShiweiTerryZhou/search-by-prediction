@@ -1,4 +1,4 @@
-##search-by-prediction
+## search-by-prediction
 
 This project serves to imitate search engine behavior by using recommender system to, hopefully, improve performance on large data by 
 avoiding complex querying from DB. Dataset is picked from pixiv.com, which contains large amount of anime pictures (so less color complexity 
